@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{9A2BFE8D-BB13-4DAC-9D33-0B7168DEA26C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Eterna PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Eterna/Program.cs">
+    <Files>
+      <File FileName="Eterna/DataAccessLayer/AppDbContext.cs" Line="14" Column="1" />
+      <File FileName="Eterna/Controllers/HomeController.cs" Line="13" Column="9" />
+      <File FileName="Eterna/Views/Shared/_Layout.cshtml" Line="70" Column="24" />
+      <File FileName="Eterna/Views/Home/Index.cshtml" Line="14" Column="80" />
+      <File FileName="Eterna/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Eterna/Views/_ViewImports.cshtml" Line="3" Column="33" />
+      <File FileName="Eterna/Controllers/AboutController.cs" Line="33" Column="32" />
+      <File FileName="Eterna/Views/About/Index.cshtml" Line="87" Column="19" />
+      <File FileName="Eterna/Program.cs" Line="8" Column="1" />
+      <File FileName="Eterna/appsettings.json" Line="9" Column="75" />
+      <File FileName="Eterna/Models/Statistic.cs" Line="8" Column="27" />
+      <File FileName="Eterna/Models/Client.cs" Line="8" Column="1" />
+      <File FileName="Eterna/Models/Testimonial.cs" Line="11" Column="1" />
+      <File FileName="Eterna/ViewModels/AboutVM/AboutVM.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Eterna" expanded="True">
+            <Node name="Eterna" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DataAccessLayer" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="AboutVM" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="About" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
